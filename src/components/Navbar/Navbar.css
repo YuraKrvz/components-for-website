@@ -13,9 +13,13 @@
    margin-left: 20px;
    cursor: pointer;
 }
+.fab, .fas{
+   color: #fff;
+}
 .fas .fa-box{
    margin-left: 0.5rem;
    font-size: 1.6rem;
+   /* color: #fff; */
 }
 .fa-bars{
    color: #fff;
@@ -35,6 +39,7 @@
 }
 .nav-links a {
    text-decoration: none;
+   color: #fff;
 }
 .nav-links:hover{
    background-color: var(--cyan-color);
