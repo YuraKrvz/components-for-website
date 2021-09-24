@@ -21,7 +21,7 @@ export const navbarData = [
    },
    {
       title: 'Sign up',
-      url: '#',
+      url: '/Form',
       cName: 'nav-links-mobile',
    },
 ]

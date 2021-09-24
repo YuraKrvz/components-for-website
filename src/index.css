@@ -23,3 +23,7 @@ code {
   --teal-color: #20c997;
   --blue-color: #0d6efd;
 }
+
+a{
+  text-decoration: none;
+}
