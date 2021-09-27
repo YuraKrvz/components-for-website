@@ -15,8 +15,11 @@
    right: 3%;
    font-size: 1.5rem;
    z-index: 1;
-   color: #fff;
+   
    cursor: pointer;
+ }
+ .close-btn a {
+  color: #fff;
  }
  
  .form-content-left {
